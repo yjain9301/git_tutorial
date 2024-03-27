@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/Apdcvbnm,ap.tsx</code> and save to reload.
+          Edit  and save to reload.
         </p>
         Learn React with mateial ui
       </header>
